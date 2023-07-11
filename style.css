@@ -1,0 +1,885 @@
+.wireframe-services,
+.wireframe-services * {
+  box-sizing: border-box;
+}
+.wireframe-services {
+  background: #ffffff;
+  width: 1280px;
+  height: 3450px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2119 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 0px;
+}
+.wireframe-home-02 {
+  background: #ff0000;
+  flex-shrink: 0;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.img-20200714-063257-1 {
+  width: 1407px;
+  height: 832px;
+  position: absolute;
+  left: -61px;
+  top: 0px;
+}
+.frame-2106 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.1px;
+  padding: 0px 50px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 277px;
+  align-items: center;
+  justify-content: center;
+  width: 1280px;
+  height: 80px;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 0px;
+}
+.lalu-yudha-pramudia {
+  color: #acacac;
+  text-align: center;
+  font: 600 20px "Plus Jakarta Sans", sans-serif;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-2157 {
+  flex-shrink: 0;
+  width: 437.37px;
+  height: 24.13px;
+  position: static;
+}
+.about-me {
+  color: #acacac;
+  text-align: center;
+  font: 600 20px "Plus Jakarta Sans", sans-serif;
+  position: absolute;
+  left: 654.82px;
+  top: 27.93px;
+  width: 126.86px;
+  height: 24.13px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.project {
+  color: #acacac;
+  text-align: center;
+  font: 600 20px "Plus Jakarta Sans", sans-serif;
+  position: absolute;
+  left: 833.21px;
+  top: 27.93px;
+  width: 99.21px;
+  height: 24px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact {
+  color: #acacac;
+  text-align: center;
+  font: 600 20px "Plus Jakarta Sans", sans-serif;
+  position: absolute;
+  left: 983.96px;
+  top: 27.93px;
+  width: 108.23px;
+  height: 24px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hi-i-m-lalu-yudha-pramudia-front-end-developer-with-a-creative-mind {
+  color: #acacac;
+  text-align: left;
+  font: 400 64px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 590px);
+  top: calc(50% - 115px);
+  width: 873px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.light-button-primary-text {
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  left: 50px;
+  top: 581px;
+}
+.rectangle {
+  border-radius: 6px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.button {
+  color: #acacac;
+  text-align: center;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 30.73px;
+  top: calc(50% - 6px);
+}
+.wireframe-about {
+  flex-shrink: 0;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.vector-156 {
+  position: absolute;
+  left: 97.5px;
+  top: 546.5px;
+  overflow: visible;
+}
+.group-2158 {
+  position: absolute;
+  inset: 0;
+}
+.img-20200714-064356-1 {
+  width: 1248px;
+  height: 1590px;
+  position: absolute;
+  left: 16px;
+  top: 0px;
+}
+#frame-2118 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 101px;
+  top: 259px;
+}
+.frame-2117 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.lalu-yudha {
+  color: #acacac;
+  text-align: left;
+  font: 600 48px "Inter", sans-serif;
+  position: relative;
+  width: 451px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-2033 {
+  flex-shrink: 0;
+  width: 446px;
+  height: 360px;
+  position: static;
+}
+.saya-adalah-seorang-profesional-di-bidang-front-end-dengan-dedikasi-tinggi-ia-mengembangkan-keterampilan-dalam-menghasilkan-antarmuka-pengguna-yang-menarik-dan-responsif-lalu-adalah-seorang-individu-yang-berkomitmen-untuk-memberikan-pengalaman-pengguna-terbaik-melalui-desain-yang-estetis-dan-fungsional-dalam-pekerjaannya-ia-senang-mengeksplorasi-teknologi-terbaru-dan-memastikan-situs-web-atau-aplikasi-yang-ia-bangun-memiliki-performa-yang-optimal-lalu-adalah-seorang-yang-bersemangat-kreatif-dan-terus-berusaha-untuk-meningkatkan-diri-di-bidang-front-end {
+  color: #acacac;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 89px;
+  width: 446px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-2036 {
+  flex-shrink: 0;
+  width: 203px;
+  height: 32px;
+  position: static;
+}
+.group-1982 {
+  width: 89px;
+  height: 32px;
+  position: static;
+}
+.group-1977 {
+  width: 32px;
+  height: 32px;
+  position: static;
+}
+.rectangle-937 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #545353;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 2px;
+  top: 482px;
+}
+.vector-21 {
+  position: absolute;
+  left: 2.05px;
+  top: 482.05px;
+  overflow: visible;
+}
+.twitter {
+  position: absolute;
+  left: 0px;
+  top: 479px;
+  overflow: visible;
+}
+.group-1978 {
+  width: 32px;
+  height: 32px;
+  position: static;
+}
+.rectangle-9372 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #545353;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 59px;
+  top: 482px;
+}
+.vector-212 {
+  position: absolute;
+  left: 59.05px;
+  top: 482.05px;
+  overflow: visible;
+}
+.google {
+  position: absolute;
+  left: 57px;
+  top: 479px;
+  overflow: visible;
+}
+.group-2035 {
+  width: 89px;
+  height: 32px;
+  position: static;
+}
+.rectangle-9373 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #545353;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 116px;
+  top: 482px;
+}
+.vector-213 {
+  position: absolute;
+  left: 116.05px;
+  top: 482.05px;
+  overflow: visible;
+}
+.instagram {
+  position: absolute;
+  left: 114px;
+  top: 479px;
+  overflow: visible;
+}
+.rectangle-9374 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #545353;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 173px;
+  top: 482px;
+}
+.vector-214 {
+  position: absolute;
+  left: 173.05px;
+  top: 482.05px;
+  overflow: visible;
+}
+.telegram {
+  position: absolute;
+  left: 171px;
+  top: 479px;
+  overflow: visible;
+}
+.rectangle-9375 {
+  border-radius: 46px;
+  width: 491.67px;
+  height: 480px;
+  position: absolute;
+  left: 688px;
+  top: 176px;
+}
+.wireframe-services2 {
+  flex-shrink: 0;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.img-20200811-093017-1 {
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-2116 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 465px);
+  top: calc(50% - 331px);
+}
+.project2 {
+  color: #acacac;
+  text-align: center;
+  font: 600 50px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#frame-2115 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2113 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2107 {
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 1px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-3799 {
+  flex-shrink: 0;
+  width: 255px;
+  height: 190px;
+  position: relative;
+}
+.e-commerce-shop-page {
+  color: #acacac;
+  text-align: center;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+  width: 255px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-2108 {
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 1px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.timely-weekly-view {
+  color: #acacac;
+  text-align: center;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+  width: 255px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-2109 {
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 1px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cryptocurrency-i-os-app {
+  color: #acacac;
+  text-align: center;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+  width: 255px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-2114 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2110 {
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 1px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.booking-service-web-desain {
+  color: #acacac;
+  text-align: center;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+  width: 255px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-2111 {
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 1px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.website-design-home-page-ui {
+  color: #acacac;
+  text-align: center;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+  width: 255px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-2112 {
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 1px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.project-management-tool-employee-profil {
+  color: #acacac;
+  text-align: center;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+  width: 255px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heroicons-solid-photo {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 922px;
+  top: 267px;
+  overflow: hidden;
+}
+.heroicons-solid-photo2 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 599px;
+  top: 274px;
+  overflow: hidden;
+}
+.heroicons-solid-photo3 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 280px;
+  top: 568px;
+  overflow: hidden;
+}
+.heroicons-solid-photo4 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 922px;
+  top: 568px;
+  overflow: hidden;
+}
+.wireframe-contact {
+  flex-shrink: 0;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.fb-img-1614312149461-1 {
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+#group-2159 {
+  position: absolute;
+  inset: 0;
+}
+.group-2091 {
+  width: 764px;
+  height: 454px;
+  position: static;
+}
+.group-2088 {
+  width: 374px;
+  height: 392px;
+  position: static;
+}
+.get-in-touch {
+  color: #acacac;
+  text-align: left;
+  font: 700 24px/32px "Inter", sans-serif;
+  position: absolute;
+  left: 453px;
+  top: 236px;
+}
+.rectangle2 {
+  background: #ffffff;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 374px;
+  height: 48px;
+  position: absolute;
+  left: 453px;
+  top: 298px;
+}
+.rectangle3 {
+  background: #ffffff;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 374px;
+  height: 48px;
+  position: absolute;
+  left: 453px;
+  top: 376px;
+}
+.rectangle4 {
+  background: #ffffff;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 374px;
+  height: 96px;
+  position: absolute;
+  left: 453px;
+  top: 454px;
+}
+.light-button-primary-text2 {
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  left: 673px;
+  top: 580px;
+}
+.frame-2063 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 382px);
+  top: 658px;
+}
+.group-2005 {
+  flex-shrink: 0;
+  width: 220px;
+  height: 32px;
+  position: static;
+}
+._6299232839298 {
+  color: #acacac;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 40px;
+  top: calc(50% - 8px);
+  width: 180px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-2004 {
+  width: 32px;
+  height: 32px;
+  position: static;
+}
+.rectangle-9376 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #545353;
+  border-width: 1px;
+  width: 28.08px;
+  height: 27px;
+  position: absolute;
+  left: 2px;
+  top: 2px;
+}
+.whatsapp {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-2089 {
+  flex-shrink: 0;
+  width: 255px;
+  height: 32px;
+  position: static;
+}
+.yudha-8-gmail-com {
+  color: #acacac;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 290px;
+  top: calc(50% - 8px);
+  width: 215px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-9377 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #545353;
+  border-width: 1px;
+  width: 28.08px;
+  height: 27px;
+  position: absolute;
+  left: 252px;
+  top: 2px;
+}
+.instagram3 {
+  position: absolute;
+  left: 250px;
+  top: 0px;
+  overflow: visible;
+}
+.group-2090 {
+  flex-shrink: 0;
+  width: 229px;
+  height: 32px;
+  position: static;
+}
+.lombok-indonesia {
+  color: #acacac;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 575px;
+  top: calc(50% - 8px);
+  width: 189px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-9378 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #545353;
+  border-width: 1px;
+  width: 28.08px;
+  height: 27px;
+  position: absolute;
+  left: 537px;
+  top: 2px;
+}
+.dribbble {
+  position: absolute;
+  left: 535px;
+  top: 0px;
+  overflow: visible;
+}
+.contact2 {
+  color: #acacac;
+  text-align: center;
+  font: 600 48px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 140px);
+  top: 136px;
+  width: 296px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nama {
+  color: #acacac;
+  text-align: center;
+  font: 600 14px "Inter", sans-serif;
+  position: absolute;
+  left: 473px;
+  top: 313px;
+}
+.nama-span {
+  color: #acacac;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+}
+.nama-span2 {
+  color: #acacac;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: lowercase;
+}
+.email {
+  color: #acacac;
+  text-align: center;
+  font: 600 14px "Inter", sans-serif;
+  position: absolute;
+  left: 473px;
+  top: 391px;
+}
+.email-span {
+  color: #acacac;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+}
+.email-span2 {
+  color: #acacac;
+  font: 600 14px "Inter", sans-serif;
+}
+.message {
+  color: #acacac;
+  text-align: center;
+  font: 600 14px "Inter", sans-serif;
+  position: absolute;
+  left: 473px;
+  top: 467px;
+}
+.message-span {
+  color: #acacac;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+}
+.message-span2 {
+  color: #acacac;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: lowercase;
+}
+.wireframe-footer {
+  background: linear-gradient(
+    180deg,
+    rgba(84, 66, 0, 1) 98.7260103225708%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  flex-shrink: 0;
+  width: 1280px;
+  height: 122px;
+  position: relative;
+  overflow: hidden;
+}
+.design-by-yudha {
+  color: #acacac;
+  text-align: left;
+  font: 600 24px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 116px);
+  top: calc(50% - 18px);
+  width: 232px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
